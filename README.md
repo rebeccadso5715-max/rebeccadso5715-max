@@ -26,11 +26,7 @@
 
 <br />
 
-<div align="center">
 
-### `student@github:~$ whoami`
-
-</div>
 
 ```txt
 Name       : Rebecca Peter Dsouza

@@ -45,7 +45,7 @@
       </p>
     </td>
     <td width="42%" align="center">
-      <img width="320" src="https://github-readme-stats.vercel.app/api?username=rebeccadso5715-max&show_icons=true&theme=dracula&hide_border=true&bg_color=282A36&title_color=FF79C6&text_color=F8F8F2&icon_color=BD93F9" alt="Rebecca's GitHub stats" />
+      <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=2200&pause=500&color=BD93F9&center=true&vCenter=true&width=330&height=130&lines=Models+over+noise;Logic+over+guesswork;Curiosity+over+comfort;Code+with+clarity" alt="Rebecca's learning motto" />
     </td>
   </tr>
 </table>
@@ -110,25 +110,34 @@
 
 ## GitHub Universe
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rebeccadso5715-max&show_icons=true&theme=dracula&hide_border=true&bg_color=282A36&title_color=FF79C6&text_color=F8F8F2&icon_color=BD93F9&rank_icon=github" alt="Rebecca's GitHub stats" />
-<img width="49%" src="https://streak-stats.demolab.com?user=rebeccadso5715-max&theme=dracula&hide_border=true&background=282A36&ring=FF79C6&fire=FFB86C&currStreakLabel=BD93F9&sideLabels=F8F8F2&dates=6272A4" alt="Rebecca's GitHub streak" />
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Focus-Statistics-282A36?style=for-the-badge&labelColor=44475A&color=BD93F9" alt="Focus statistics" />
+      <br />
+      Probability, inference, data, and patterns.
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Code-Python-282A36?style=for-the-badge&logo=python&logoColor=F1FA8C&labelColor=44475A&color=FF79C6" alt="Python" />
+      <br />
+      Simulations, analysis, and problem solving.
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Path-AIML-282A36?style=for-the-badge&labelColor=44475A&color=8BE9FD" alt="AIML" />
+      <br />
+      Learning models, algorithms, and intelligent systems.
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Goal-Quant%20Finance-282A36?style=for-the-badge&labelColor=44475A&color=50FA7B" alt="Quant Finance" />
+      <br />
+      Connecting mathematics, markets, and code.
+    </td>
+  </tr>
+</table>
 
 <br />
-<br />
 
-<img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebeccadso5715-max&layout=compact&theme=dracula&hide_border=true&bg_color=282A36&title_color=FF79C6&text_color=F8F8F2" alt="Top languages" />
-
-<br />
-<br />
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rebeccadso5715-max&theme=dracula&bg_color=282A36&color=F8F8F2&line=FF79C6&point=BD93F9&area=true&hide_border=true" alt="Rebecca's contribution graph" />
-
-<br />
-<br />
-
-## Achievement Board
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=rebeccadso5715-max&theme=dracula&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6" alt="GitHub trophies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=20&duration=2800&pause=700&color=8BE9FD&center=true&vCenter=true&width=850&height=55&lines=Currently+building+my+GitHub+journey;Projects+in+AI%2C+statistics%2C+finance%2C+and+mathematics+coming+soon;Every+commit+is+one+step+closer+to+the+quant+dream" alt="Current GitHub journey" />
 
 <br />
 <br />

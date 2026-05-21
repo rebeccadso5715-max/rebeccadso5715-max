@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./assets/cosmic-hero.svg" alt="Rebecca Peter Dsouza cosmic banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=285&color=0:282A36,30:44475A,65:BD93F9,100:FF79C6&text=Rebecca%20Peter%20Dsouza&fontColor=F8F8F2&fontSize=48&fontAlignY=34&desc=Statistics%20%E2%80%A2%20AIML%20%E2%80%A2%20Mathematics%20%E2%80%A2%20Quant%20Finance&descAlignY=54&descSize=18&animation=fadeIn" alt="Rebecca Peter Dsouza banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=26&duration=2400&pause=650&color=FF79C6&center=true&vCenter=true&width=950&height=65&lines=Future+Quant+Researcher;Statistics+Enthusiast+with+an+AIML+spark;Mathematics+%2B+Markets+%2B+Models;Building+clarity+from+data%2C+logic%2C+and+code" alt="Typing introduction" />
 
@@ -20,7 +20,7 @@
 <br />
 <br />
 
-<img width="92%" src="./assets/constellation-divider.svg" alt="Constellation divider" />
+<img width="92%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:8BE9FD,30:BD93F9,65:FF79C6,100:FFB86C" alt="Dracula neon divider" />
 
 </div>
 
@@ -62,7 +62,7 @@ Exploring  : Models, algorithms, markets, simulations, and intelligent systems
       </p>
     </td>
     <td width="43%" align="center">
-      <img width="100%" src="./assets/orbit-system.svg" alt="Rebecca's quant orbit illustration" />
+      <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=18&duration=2100&pause=450&color=BD93F9&center=true&vCenter=true&width=360&height=145&lines=Models+over+noise;Logic+over+guesswork;Curiosity+over+comfort;Discipline+over+chaos;Code+with+clarity" alt="Rebecca's learning motto" />
     </td>
   </tr>
 </table>
@@ -71,7 +71,7 @@ Exploring  : Models, algorithms, markets, simulations, and intelligent systems
 
 <div align="center">
 
-<img width="92%" src="./assets/constellation-divider.svg" alt="Constellation divider" />
+<img width="92%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FF79C6,50:BD93F9,100:8BE9FD" alt="Divider" />
 
 ## Mission Control
 
@@ -160,11 +160,6 @@ Exploring  : Models, algorithms, markets, simulations, and intelligent systems
 
 ## Project Radar
 
-<img width="96%" src="./assets/project-radar.svg" alt="Project radar cosmic illustration" />
-
-<br />
-<br />
-
 <table>
   <tr>
     <td align="center" width="20%">
@@ -231,7 +226,7 @@ Exploring  : Models, algorithms, markets, simulations, and intelligent systems
 <br />
 <br />
 
-<img width="92%" src="./assets/constellation-divider.svg" alt="Constellation divider" />
+<img width="92%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:8BE9FD,30:BD93F9,65:FF79C6,100:FFB86C" alt="Dracula neon divider" />
 
 <br />
 <br />
@@ -240,4 +235,4 @@ Exploring  : Models, algorithms, markets, simulations, and intelligent systems
 
 </div>
 
-<img width="100%" src="./assets/cosmic-footer.svg" alt="Cosmic footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:FF79C6,35:BD93F9,70:44475A,100:282A36" alt="Footer wave" />
